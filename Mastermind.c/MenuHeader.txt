@@ -1,0 +1,4 @@
+	printf("\t\t***********************************************\n");
+	printf("\t\t*           Welcome to Mastermind             *\n");
+	printf("\t\t***********************************************\n\n");
+	printf("\t\tWould you like to play a game? No murder, I promise.\n\n\n");
